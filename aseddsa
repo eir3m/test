@@ -1,17 +1,17 @@
 function roundEndListener()
 {
-// code
+  // code
 }
 
 function roundStartListener()
 {
-// code
+  // code
 }
 
 function main()
 {
-Global.RegisterCallback('round_end', 'roundEndListener');
-Global.RegisterCallback('round_start', 'roundStartListener');
+  Global.RegisterCallback('round_end', 'roundEndListener');
+  Global.RegisterCallback('round_start', 'roundStartListener');
 }
 
 main();
