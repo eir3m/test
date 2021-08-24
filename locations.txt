@@ -1,5 +1,6 @@
-grenade_helper_locations = {
-    { "de_mirage", "Molly", 'Throw', "Stairs", vector.new(418, -1623, -221), {-19.768141, 171.269547}},
-    { "de_mirage", "He", 'Throw', "Stairs", vector.new(7.868299, -1557.266479, -175.367752), {-27.061043, 169.090744}},
+grenade_locations = {
+    { "de_mirage", "Molly", 'RThrow', "Stairs", vector.new(-754.517700, -1353.604370, -167.968750), {-21.418083, -46.978462},40},
+    { "de_mirage", "Molly", 'JThrow', "Stairs", vector.new(-755, -1325, -168), {-19.833054, -47.540951},10},
+    { "de_mirage", "Molly", 'Throw', "Pit", vector.new(-748.671936, -1475.705566, -168.968750), {-14.389354, -16.412188},0}
 }
-return grenade_helper_locations
+return grenade_locations
