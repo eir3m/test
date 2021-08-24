@@ -1,5 +1,5 @@
 grenade_helper_locations = {
-    { "de_mirage", 'Throw', "Stairs", "(Safe)", {418, -1623, -221}, {-19.768141, 171.269547}},
-    { "de_mirage", 'Throw', "Stairs", "(Safe)", {7.868299, -1557.266479, -106.367752}, {-27.061043, 169.090744}},
+    { "de_mirage", "Molly", 'Throw', "Stairs", vector.new(418, -1623, -221), {-19.768141, 171.269547}},
+    { "de_mirage", "He", 'Throw', "Stairs", vector.new(7.868299, -1557.266479, -175.367752), {-27.061043, 169.090744}},
 }
 return grenade_helper_locations
