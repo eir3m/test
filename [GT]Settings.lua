@@ -1,1 +1,0 @@
-rend_x = 20;rend_y = 400;test_w = 170;test_h = 20;bobmstartx = 20;bobmstarty = 300;bwidth = 150;bheight = 60;return pos_x, pos_y,test_w,test_h,bobmstartx,bobmstarty,bwidth,bheight;
