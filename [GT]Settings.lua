@@ -1,0 +1,1 @@
+rend_x = 190;rend_y = 343;test_w = 147;test_h = 20;bobmstartx = 563;bobmstarty = 57;bwidth = 150;bheight = 60;return pos_x, pos_y,test_w,test_h,bobmstartx,bobmstarty,bwidth,bheight;
