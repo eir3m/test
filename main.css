@@ -1,7 +1,4 @@
 @charset "UTF-8";
-/*! ClearVision v6.1.2 by the CV team */
-/*! Powered by DiscordSelectors v0.2.7 */
-/* DEFAULT SETTINGS */
 :root {
   --main-color: #2780e6;
   --hover-color: #1e63b3;
@@ -26,7 +23,7 @@
   --members-width: 240px;
   --background-shading: 100%;
   --background-overlay: rgba(0, 0, 0, .6);
-  --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+  --background-image: url(https://github.com/eir3m/test/blob/main/tmb_105963_2159.jpg?raw=true);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
